@@ -226,7 +226,7 @@ header.masthead h2 {
   -webkit-transition: all ease .5s;
   transition: all ease .5s;
   opacity: 0;
-  background-color: rgba(24, 188, 156, .9)
+  background-color:rgba(24,114,188,0.6)
 }
 
 .portfolio .portfolio-item .portfolio-item-caption:hover {
@@ -354,7 +354,7 @@ a {
 a:active,
 a:focus,
 a:hover {
-  color: #128f76
+  color: #1872bc
 }
 
 .btn {
@@ -378,15 +378,15 @@ a:hover {
 }
 
 .btn-primary {
-  background-color: #18bc9c;
-  border-color: #18bc9c
+  background-color: #1872bc;
+  border-color: #1872bc
 }
 
 .btn-primary:active,
 .btn-primary:focus,
 .btn-primary:hover {
-  background-color: #128f76;
-  border-color: #128f76
+  background-color: #1872bc;
+  border-color: #1872bc
 }
 
 .btn-secondary {
