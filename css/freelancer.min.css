@@ -400,3 +400,15 @@ a:hover {
   background-color: #1a252f;
   border-color: #1a252f
 }
+
+.disp-block {
+  display: block;
+  /* これでブロック要素の扱いになります */
+}
+
+.blockcenter {
+  margin-left: auto;
+  /* 【ポイント】*/
+  margin-right: auto;
+  /* 【ポイント】*/
+}
