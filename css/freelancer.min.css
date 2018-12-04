@@ -412,3 +412,7 @@ a:hover {
   margin-right: auto;
   /* 【ポイント】*/
 }
+
+.img-responsive-overwrite{
+  margin: 0 auto;
+}
